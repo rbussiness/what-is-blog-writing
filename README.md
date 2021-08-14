@@ -1,0 +1,2 @@
+# what-is-blog-writing
+The appearance of blogs has changed over time, and these days blogs include a wide variety of items and widgets. However, most blogs still include some standard features and structures.  Here are common features that a typical blog will include:  1.Header with the menu or navigation bar. 2.Main content area with highlighted or latest blog posts. 3.Sidebar with social profiles, favorite content, or call-to-action. 4.Footer with relevant links like a disclaimer, privacy policy, contact page, etc
